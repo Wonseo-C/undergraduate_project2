@@ -1,7 +1,7 @@
 # undergraduate_project2
 
 ```python
-python trt_yolo_wonseo.py -m yolov4-custom_best -v [test_video name] -o [result_video name] 
+python trt_yolo_wonseo.py -m [model name] -v [test_video name] -o [result_video name] 
 ```
 
 
