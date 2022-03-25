@@ -8,6 +8,7 @@ python trt_yolo_wonseo.py -m [model name] -v [test_video name] -o [result_video 
 ## Data Training
 * LabelIMG Tool
 * 3 classes : kickboard, person, helmet (with 331 images)
+* Model : Yolov4 Series with [Darknet](https://github.com/pjreddie/darknet)
 
 ## Algorithm
 ### 1. Person on kickboard?
