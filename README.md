@@ -22,14 +22,11 @@
 ### Algorithm's Advantage
 * Detection을 No helmet, safe, two people과 같이 전체적으로 하는 경우보다 정확도 향상
 * Train Image 수가 줄어듦 (1694 -> 331)
-```math
-\begin{table}[]
-\begin{tabular}{cccc}
-         & yolov4 & yolov4-tiny & yolov4-tiny with Algorithm \\
-FPS      & 3.5    & 9           & 9                          \\
-Accuracy & Low    & Very Low    & High                      
-\end{tabular}
-\end{table}
-```
+
+
+|   | yolov4 | yolov4-tiny | yolov4-tiny with Algorithm |
+|FPS      | 3.5   | 9           | 9                          |
+|Accuracy| Low    | Very Low    | High                      
+
 
 ![Demo Video](./demo2.gif)
