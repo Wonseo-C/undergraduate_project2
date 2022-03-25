@@ -1,5 +1,10 @@
 # undergraduate_project2
 
+```python
+python trt_yolo_wonseo.py -m yolov4-custom_best -v [test_video name] -o [result_video name] 
+```
+
+
 ## Data Training
 * LabelIMG Tool
 * 3 classes : kickboard, person, helmet (with 331 images)
