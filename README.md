@@ -24,9 +24,10 @@
 * Train Image 수가 줄어듦 (1694 -> 331)
 
 
-|   | yolov4 | yolov4-tiny | yolov4-tiny with Algorithm |
-|FPS      | 3.5   | 9           | 9                          |
-|Accuracy| Low    | Very Low    | High                      
+||yolov4| yolov-tiny|yolov4-tiny with Algorithm|
+|:---:|:---:|:---:|:---:|
+|FPS|3.5|9|9|
+|Accuracy|Low|Very Low|High|                     
 
 
 ![Demo Video](./demo2.gif)
