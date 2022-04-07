@@ -1,6 +1,6 @@
 # undergraduate_project2
 
-: 전동 킥보드에 탄 사람이 헬멧을 쓰고 있는지 유무, 두 사람이 타고 있는지 유무를 판단.
+: 전동 킥보드에 탄 사람이 헬멧을 쓰고 있는지 유무, 두 사람이 타고 있는지 유무를 판단
 
 (with object detection & Jetson Nano Board)
 
