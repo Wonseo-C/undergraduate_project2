@@ -25,7 +25,7 @@ python trt_yolo_wonseo.py -m [model name] -v [test_video name] -o [result_video 
   * 헬멧과 사람 사이의 IoU (=Area of Overlap/Area of Union)를 이용하여 0.03이 넘을 경우 헬멧을 착용하고 있다고 판단
   * 사람의 머리와 전체 몸의 비율이 대부분 일정하다고 가정한 결과.
 
-### 3. Optimization
+### 3. Quantization
   * Yolov4-tiny model's TensorRT 사용 (FP 16)
   * https://github.com/jkjung-avt/tensorrt_demos
 
